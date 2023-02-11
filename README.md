@@ -1,6 +1,6 @@
 ## Hi there, I'm Simon! 👋
 
-<img align="left" width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MokoneSA&show_icons=true&theme=radical" />
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MokoneSA&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" height="180px" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokoneSA&layout=compact" /><br><br><br><br><br><br><br><br><br>
 
